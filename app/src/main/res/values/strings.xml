@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="square">X<sup>2</sup></string>
+    <string name="squareText"><sup>2</sup></string>
+    <string name="sinInv">sin<sup>-1</sup></string>
+    <string name="cosInv">cos<sup>-1</sup></string>
+    <string name="tanInv">tan<sup>-1</sup></string>
+</resources>
